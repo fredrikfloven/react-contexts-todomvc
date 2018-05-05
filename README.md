@@ -37,4 +37,4 @@ Other than the manner in which state is passed to children, the other difference
 
 However, although we are no longer required to initialize a store (unlike in React Redux), we are still free to *use* any state-management systems, such as ([plain-vanilla](https://en.wikipedia.org/wiki/Plain_vanilla)) Redux. A complement to using Redux is that we are free to respond to state change however we wish.
 
-Nevertheless, Redux was not used, and this example application was purely meant as a demonstration on the use of React's new context api.
+Nevertheless, Redux was not used in this application, since it was purely meant as a demonstration on the use of React's new context api.
